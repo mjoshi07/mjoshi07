@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mayank Joshi
+- 👋 Hi, I’m [Mayank Joshi](https://www.linkedin.com/in/mayank-joshi-a1263b150/)
 - 👀 I’m interested in robotics, computer vision and AI
 - 🌱 I’m currently learning basics of Robotics
 - 💞️ I’m looking to collaborate on ROS and CV
