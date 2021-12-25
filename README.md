@@ -3,6 +3,7 @@
 - 🌱 I’m a Robotics Master's student
 - 💞️ I’m looking to collaborate on ROS and CV
 - 📫 How to reach me, ping me at mayankjoshi63@gmail.com
+- You may also visit [my website](https://mjoshi07.github.io), any feedback or comment is appreciated
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjoshi07&show_icons=true&theme=radical)
 
